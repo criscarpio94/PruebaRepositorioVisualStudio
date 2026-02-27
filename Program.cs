@@ -14,6 +14,8 @@ namespace PruebaRepositorioVisualStudio
             Console.WriteLine("Un nuevo print para la prueba desde visual studio");
 
             Console.WriteLine("Otro print adicional a la prueba con C#");
+
+            Console.WriteLine("Impresion a la prueba con C#");
         }
     }
 }
